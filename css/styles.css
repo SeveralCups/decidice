@@ -1,0 +1,74 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.fas {
+  color: #a82a19;
+}
+
+.win-count {
+  color: #399778;
+  font-size: 1.5rem;
+}
+
+#theButton {
+  background-color: #4ecca3;
+  border: none;
+  border-radius: 0.8rem;
+  color: #eeeeee;
+  font-family: "Lobster", cursive;
+  font-size: 2.5rem;
+  text-shadow: 2px 0 #232931;
+  width: 120px;
+  margin-bottom: 5%;
+}
+
+#theButton:hover {
+  background-color: #63f8c6;
+}
+
+#theButton:focus {
+  outline: none;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  margin: 0;
+  padding: 3% 0;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #c2c2c2;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
+.footer-element {
+  padding: 5px 0 0;
+}
